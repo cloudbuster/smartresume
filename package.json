@@ -1,0 +1,25 @@
+{
+  "name": "smartresume",
+  "version": "1.0.0",
+  "description": "SmartResume is a tool for quick creation of resumes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudbuster/smartresume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Mikko Karaiste",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudbuster/smartresume/issues"
+  },
+  "homepage": "https://github.com/cloudbuster/smartresume#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
